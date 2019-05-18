@@ -131,7 +131,7 @@ let t1=document.querySelector('#alerttable');
       cnc.innerHTML +=v.getInfoTable(); 
      }
   })
-
+/*+-------------------------*/
 
   let t2=document.querySelector('#alertcard');
   t2.addEventListener('click',function(){
